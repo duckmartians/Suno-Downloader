@@ -153,17 +153,3 @@ Gói Suno hết hạn, hoặc tài khoản vừa đăng nhập ở máy khác. X
 **macOS báo app bị hỏng / không mở được**
 App chưa ký với Apple. Lần đầu hãy chuột phải → **Open**, hoặc chạy
 `xattr -dr com.apple.quarantine "/Applications/Suno Downloader.app"`.
-
-## Phát triển
-
-```bash
-npm run install:all
-node scripts/build-kv.mjs      # sinh kv/out/
-npm run dev                    # Vite + Electron
-npm test
-```
-
-Build Windows: `setup.bat` rồi `build-exe.bat` — xem [BUILD-WIN.md](BUILD-WIN.md).
-Build macOS: `./build_mac_arm64.sh`.
-
-Thông số vận hành (selector, thời gian chờ, script chèn trang) **không nằm trong app** — worker license giao ra sau khi verify chữ ký RSA. Client không có giá trị dự phòng nào: không có cấu hình thì không tải được.
