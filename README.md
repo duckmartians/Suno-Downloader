@@ -153,17 +153,3 @@ Your Suno plan expired, or the account was signed in on another machine. Check t
 **macOS says the app is damaged / can't be opened**
 It isn't signed by Apple. Right-click → **Open** the first time, or run
 `xattr -dr com.apple.quarantine "/Applications/Suno Downloader.app"`.
-
-## Development
-
-```bash
-npm run install:all
-node scripts/build-kv.mjs      # generates kv/out/
-npm run dev                    # Vite + Electron
-npm test
-```
-
-Windows build: `setup.bat` then `build-exe.bat` — see [BUILD-WIN.md](BUILD-WIN.md).
-macOS build: `./build_mac_arm64.sh`.
-
-Operational settings (selectors, timings, injected scripts) do **not** live in the app — they are served by the licence worker after an RSA signature check. The client has no fallback values: no config, no downloads.
