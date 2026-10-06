@@ -23,9 +23,9 @@ Open the latest release on **[Releases](https://github.com/duckmartians/Suno-Dow
 
 | Your machine | Download | Notes |
 |---|---|---|
-| 🪟 **Windows (64-bit)** | `SunoDownloader-<version>-win-x64.exe` | Installer |
-| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | `SunoDownloader-<version>-mac-arm64.dmg` | Macs from ~late 2020 onward |
-| 🍎 **Mac with Intel chip** | `SunoDownloader-<version>-mac-intel.dmg` | Older Macs (before 2020) |
+| 🪟 **Windows (64-bit)** | [`SunoDownloader-<version>-win-x64.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Installer |
+| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`SunoDownloader-<version>-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Macs from ~late 2020 onward |
+| 🍎 **Mac with Intel chip** | [`SunoDownloader-<version>-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Older Macs (before 2020) |
 
 **Not sure which chip your Mac has?** Click the  menu (top-left) → **About This Mac**:
 - A **Chip** line reading "Apple M1 / M2 / M3…" → download the **arm64** build.

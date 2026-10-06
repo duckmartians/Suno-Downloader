@@ -23,9 +23,9 @@ Mở bản phát hành mới nhất ở **[Releases](https://github.com/duckmart
 
 | Máy của bạn | Tải tệp | Ghi chú |
 |---|---|---|
-| 🪟 **Windows (64-bit)** | `SunoDownloader-<phiên bản>-win-x64.exe` | Bộ cài |
-| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | `SunoDownloader-<phiên bản>-mac-arm64.dmg` | Mac từ khoảng cuối 2020 về sau |
-| 🍎 **Mac chip Intel** | `SunoDownloader-<phiên bản>-mac-intel.dmg` | Mac đời cũ (trước 2020) |
+| 🪟 **Windows (64-bit)** | [`SunoDownloader-<phiên bản>-win-x64.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Bộ cài |
+| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`SunoDownloader-<phiên bản>-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Mac từ khoảng cuối 2020 về sau |
+| 🍎 **Mac chip Intel** | [`SunoDownloader-<phiên bản>-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Mac đời cũ (trước 2020) |
 
 **Không chắc Mac của bạn chip gì?** Bấm biểu tượng  ở góc trên bên trái → **About This Mac**:
 - Có dòng **Chip** ghi "Apple M1 / M2 / M3…" → tải bản **arm64**.
