@@ -61,7 +61,7 @@ Nothing else to install: FFmpeg and the background browser ship inside the app -
 
 ### Step 3 - Sign in &amp; buy the Suno plan
 
-**You need a G-Labs account with an active Suno plan - there is no free tier.** Open the app and sign in with Google; without an active plan the app opens the purchase screen. The Suno plan is its own plan, separate from G-Labs Studio's plans, time-based and with no auto-renewal:
+**You need an account with an active Suno plan - there is no free tier.** Open the app and sign in with Google; without an active plan the app opens the purchase screen. The Suno plan is its own plan, separate from G-Labs Studio's plans, time-based and with no auto-renewal:
 
 | Duration | Bank QR (VietQR) | PayPal / USDT |
 |---|---|---|

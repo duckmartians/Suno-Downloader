@@ -61,7 +61,7 @@ Không cần cài thêm gì: FFmpeg và trình duyệt nền đã đi kèm trong
 
 ### Bước 3 - Đăng nhập &amp; mua gói Suno
 
-**Cần tài khoản G-Labs có gói Suno còn hạn - không có bản miễn phí.** Mở app và đăng nhập bằng Google; chưa có gói thì app mở màn hình mua gói. Gói Suno là gói riêng, tách khỏi các gói của G-Labs Studio, tính theo thời hạn và không tự gia hạn:
+**Cần tài khoản có gói Suno còn hạn - không có bản miễn phí.** Mở app và đăng nhập bằng Google; chưa có gói thì app mở màn hình mua gói. Gói Suno là gói riêng, tách khỏi các gói của G-Labs Studio, tính theo thời hạn và không tự gia hạn:
 
 | Thời hạn | Chuyển khoản QR (VietQR) | PayPal / USDT |
 |---|---|---|
