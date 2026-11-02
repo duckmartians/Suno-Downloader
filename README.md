@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Download for macOS (Apple Silicon)" src="https://img.shields.io/badge/Download-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Download for macOS (Intel)" src="https://img.shields.io/badge/Download-macOS%20Intel-555555?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-arm64.dmg"><img alt="Download for macOS (Apple Silicon)" src="https://img.shields.io/badge/Download-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-intel.dmg"><img alt="Download for macOS (Intel)" src="https://img.shields.io/badge/Download-macOS%20Intel-555555?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
@@ -19,13 +19,13 @@
 
 ### Step 1 - Pick the right build for your machine
 
-Open the latest release on **[Releases](https://github.com/duckmartians/Suno-Downloader/releases/latest)** and download the file that matches your machine (`<version>` is the release number, e.g. `1.0.1`):
+Open the latest release on **[Releases](https://github.com/duckmartians/Suno-Downloader/releases/latest)** and download the file that matches your machine:
 
 | Your machine | Download | Notes |
 |---|---|---|
-| 🪟 **Windows (64-bit)** | [`SunoDownloader-<version>-win-x64.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Installer |
-| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`SunoDownloader-<version>-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Macs from ~late 2020 onward |
-| 🍎 **Mac with Intel chip** | [`SunoDownloader-<version>-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Older Macs (before 2020) |
+| 🪟 **Windows (64-bit)** | [`Suno-Downloader-setup.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-setup.exe) | Installer |
+| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`Suno-Downloader-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-arm64.dmg) | Macs from ~late 2020 onward |
+| 🍎 **Mac with Intel chip** | [`Suno-Downloader-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-intel.dmg) | Older Macs (before 2020) |
 
 **Not sure which chip your Mac has?** Click the  menu (top-left) → **About This Mac**:
 - A **Chip** line reading "Apple M1 / M2 / M3…" → download the **arm64** build.
@@ -40,7 +40,7 @@ Nothing else to install: FFmpeg and the background browser ship inside the app -
 <details open>
 <summary><b>🪟 On Windows</b></summary>
 
-1. Open the downloaded **`SunoDownloader-<version>-win-x64.exe`**.
+1. Open the downloaded **`Suno-Downloader-setup.exe`**.
 2. If **"Windows protected your PC"** (SmartScreen) appears: click **More info** → **Run anyway**. *(The app isn't code-signed with a Microsoft certificate, so it's flagged - it isn't a virus.)*
 3. Let the installer finish, then launch **Suno Downloader** from the **Start Menu**.
 

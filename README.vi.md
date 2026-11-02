@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Tải về cho Windows" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Tải về cho macOS (Apple Silicon)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest"><img alt="Tải về cho macOS (Intel)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Intel-555555?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-setup.exe"><img alt="Tải về cho Windows" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-arm64.dmg"><img alt="Tải về cho macOS (Apple Silicon)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-intel.dmg"><img alt="Tải về cho macOS (Intel)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Intel-555555?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
@@ -19,13 +19,13 @@
 
 ### Bước 1 - Chọn đúng bản cho máy của bạn
 
-Mở bản phát hành mới nhất ở **[Releases](https://github.com/duckmartians/Suno-Downloader/releases/latest)** rồi tải tệp đúng với máy (`<phiên bản>` là số phiên bản, ví dụ `1.0.1`):
+Mở bản phát hành mới nhất ở **[Releases](https://github.com/duckmartians/Suno-Downloader/releases/latest)** rồi tải tệp đúng với máy:
 
 | Máy của bạn | Tải tệp | Ghi chú |
 |---|---|---|
-| 🪟 **Windows (64-bit)** | [`SunoDownloader-<phiên bản>-win-x64.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Bộ cài |
-| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`SunoDownloader-<phiên bản>-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Mac từ khoảng cuối 2020 về sau |
-| 🍎 **Mac chip Intel** | [`SunoDownloader-<phiên bản>-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest) | Mac đời cũ (trước 2020) |
+| 🪟 **Windows (64-bit)** | [`Suno-Downloader-setup.exe`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-setup.exe) | Bộ cài |
+| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`Suno-Downloader-mac-arm64.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-arm64.dmg) | Mac từ khoảng cuối 2020 về sau |
+| 🍎 **Mac chip Intel** | [`Suno-Downloader-mac-intel.dmg`](https://github.com/duckmartians/Suno-Downloader/releases/latest/download/Suno-Downloader-mac-intel.dmg) | Mac đời cũ (trước 2020) |
 
 **Không chắc Mac của bạn chip gì?** Bấm biểu tượng  ở góc trên bên trái → **About This Mac**:
 - Có dòng **Chip** ghi "Apple M1 / M2 / M3…" → tải bản **arm64**.
@@ -40,7 +40,7 @@ Không cần cài thêm gì: FFmpeg và trình duyệt nền đã đi kèm trong
 <details open>
 <summary><b>🪟 Trên Windows</b></summary>
 
-1. Mở tệp **`SunoDownloader-<phiên bản>-win-x64.exe`** vừa tải.
+1. Mở tệp **`Suno-Downloader-setup.exe`** vừa tải.
 2. Nếu hiện bảng **"Windows protected your PC"** (SmartScreen): bấm **More info** → **Run anyway**. *(App chưa ký chứng chỉ của Microsoft nên bị cảnh báo - không phải virus.)*
 3. Chờ trình cài đặt chạy xong, rồi mở **Suno Downloader** từ **Start Menu**.
 
