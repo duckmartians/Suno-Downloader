@@ -41,7 +41,7 @@ Nothing else to install: FFmpeg and the background browser ship inside the app -
 <summary><b>🪟 On Windows</b></summary>
 
 1. Open the downloaded **`Suno-Downloader-setup.exe`**.
-2. If **"Windows protected your PC"** (SmartScreen) appears: click **More info** → **Run anyway**. *(The app isn't code-signed with a Microsoft certificate, so it's flagged - it isn't a virus.)*
+2. The installer is digitally signed by **DUCKMARTIANS**. If **"Windows protected your PC"** (SmartScreen) still appears for a brand-new version, check that the publisher shows DUCKMARTIANS, then click **More info** → **Run anyway**.
 3. Let the installer finish, then launch **Suno Downloader** from the **Start Menu**.
 
 </details>
@@ -214,7 +214,7 @@ Everything you set - folder, threads, format, bitrate, cover art, language, prox
 
 **The app is slow or uses a lot of memory** - every parallel download is a hidden browser window. Lower **Parallel downloads** to 1-2 in Settings.
 
-**Windows blocks it at "Windows protected your PC"** - click **More info → Run anyway**. The app isn't code-signed with a Microsoft certificate, so it's flagged - it isn't a virus.
+**Windows shows "Windows protected your PC"** - the installer is digitally signed by DUCKMARTIANS, but SmartScreen can still warn about a version that was just released. Check that the publisher is DUCKMARTIANS, then click **More info → Run anyway**.
 
 **macOS says the app is damaged / can't be opened** - it isn't signed with an Apple Developer ID. Right-click → **Open** the first time, or run `xattr -dr com.apple.quarantine "/Applications/Suno Downloader.app"`.
 

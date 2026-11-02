@@ -41,7 +41,7 @@ Không cần cài thêm gì: FFmpeg và trình duyệt nền đã đi kèm trong
 <summary><b>🪟 Trên Windows</b></summary>
 
 1. Mở tệp **`Suno-Downloader-setup.exe`** vừa tải.
-2. Nếu hiện bảng **"Windows protected your PC"** (SmartScreen): bấm **More info** → **Run anyway**. *(App chưa ký chứng chỉ của Microsoft nên bị cảnh báo - không phải virus.)*
+2. Bộ cài đã ký số, nhà phát hành **DUCKMARTIANS**. Nếu bản mới vẫn hiện bảng **"Windows protected your PC"** (SmartScreen), kiểm tra nhà phát hành là DUCKMARTIANS rồi bấm **More info** → **Run anyway**.
 3. Chờ trình cài đặt chạy xong, rồi mở **Suno Downloader** từ **Start Menu**.
 
 </details>
@@ -214,7 +214,7 @@ Mọi thứ bạn chỉnh - thư mục, số luồng, định dạng, bitrate, �
 
 **App chậm hoặc ngốn nhiều RAM** - mỗi luồng tải song song là một cửa sổ trình duyệt ẩn. Hạ **Số luồng song song** xuống 1-2 trong Cài đặt.
 
-**Windows chặn ở bảng "Windows protected your PC"** - bấm **More info → Run anyway**. App chưa ký chứng chỉ của Microsoft nên bị cảnh báo - không phải virus.
+**Windows hiện bảng "Windows protected your PC"** - bộ cài đã ký số DUCKMARTIANS, nhưng SmartScreen vẫn có thể cảnh báo với bản vừa phát hành. Kiểm tra nhà phát hành là DUCKMARTIANS rồi bấm **More info → Run anyway**.
 
 **macOS báo app bị hỏng / không mở được** - app không ký bằng Apple Developer ID. Lần đầu hãy chuột phải → **Open**, hoặc chạy `xattr -dr com.apple.quarantine "/Applications/Suno Downloader.app"`.
 
