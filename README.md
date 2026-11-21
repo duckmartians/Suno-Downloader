@@ -65,9 +65,9 @@ Nothing else to install: FFmpeg and the background browser ship inside the app -
 
 | Duration | Bank QR (VietQR) | PayPal / USDT |
 |---|---|---|
-| 1 month | 50,000₫ | $3 |
-| 6 months | 250,000₫ | $15 |
-| 1 year | 500,000₫ | $30 |
+| 1 month | 70,000₫ | $4 |
+| 6 months | 350,000₫ | $20 |
+| 1 year | 700,000₫ | $40 |
 
 Every plan unlocks all features. Pay from inside the app by **bank QR (VietQR)**, **PayPal** or **USDT** (USDT is activated manually - message the developer after paying, as the purchase screen explains). One account runs on **one machine at a time** - signing in elsewhere signs the previous machine out. The badge in the title bar shows your plan's end date; click it to check or renew.
 

@@ -65,9 +65,9 @@ Không cần cài thêm gì: FFmpeg và trình duyệt nền đã đi kèm trong
 
 | Thời hạn | Chuyển khoản QR (VietQR) | PayPal / USDT |
 |---|---|---|
-| 1 tháng | 50.000₫ | $3 |
-| 6 tháng | 250.000₫ | $15 |
-| 1 năm | 500.000₫ | $30 |
+| 1 tháng | 70.000₫ | $4 |
+| 6 tháng | 350.000₫ | $20 |
+| 1 năm | 700.000₫ | $40 |
 
 Gói nào cũng mở toàn bộ tính năng. Thanh toán ngay trong app bằng **QR ngân hàng (VietQR)**, **PayPal** hoặc **USDT** (USDT được kích hoạt thủ công - trả xong hãy nhắn cho nhà phát triển, như màn mua gói hướng dẫn). Một tài khoản dùng **một máy tại một thời điểm** - đăng nhập máy khác là máy cũ bị đẩy ra. Huy hiệu trên thanh tiêu đề hiện ngày hết hạn gói; bấm vào để kiểm tra hoặc gia hạn.
 
